@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Phillip Stapleton dead of the sicknesse at Callice: and the names of others of the 11 impeached members that went over with him. And their truncks, chests, and boxes of moneys, and jewels, found in the ship by Captain Batten. Also severall proposalls which they had to make to the Queen of England and to the state of France: whither they are not now admitted to come and of their going to Flushen, and the reasons thereof, certified by a letter from Dover.</title>
+            <author>Lawcey, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88801</idno>
+            <idno type="STC">Wing L637</idno>
+            <idno type="STC">Thomason E404_22</idno>
+            <idno type="STC">ESTC R201857</idno>
+            <idno type="EEBO-CITATION">99862346</idno>
+            <idno type="PROQUEST">99862346</idno>
+            <idno type="VID">114503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114503)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Phillip Stapleton dead of the sicknesse at Callice: and the names of others of the 11 impeached members that went over with him. And their truncks, chests, and boxes of moneys, and jewels, found in the ship by Captain Batten. Also severall proposalls which they had to make to the Queen of England and to the state of France: whither they are not now admitted to come and of their going to Flushen, and the reasons thereof, certified by a letter from Dover.</title>
+                  <author>Lawcey, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Dover this 23. of August. 1647. Will. Lawcey.</note>
+                  <note>Annotation on Thomason copy: "Aug: 26 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stapleton, Philip, --  Sir, 1603-1647.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114503:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <p>Sir <hi>PHILLIP STAPLETON</hi> Dead of the Sickneſſe at CALLICE: AND The Names of others of the 11 <hi>Impeach<g ref="char:EOLhyphen"/>ed Members</hi> that went over with him.</p>
+            <p>AND Their Truncks, Cheſts, and Boxes of Moneys, and Jewels, found in the Ship by Captain BATTEN.</p>
+            <p>ALSO Severall PROPOSALLS which they had to make to the Queen of <hi>England and to the State of FRANCE: Whither they are not now admitted to come</hi> AND Of their going to <hi>FL<g ref="char:V">Ʋ</g>SHEN,</hi> and the reaſons thereof, <hi>Certified by a Letter</hi> FROM DOVER.</p>
+            <p>
+               <add>Aug: 26</add> Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> 1647</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114503:2"/>
+            <!-- PDF PAGE 17 -->
+            <pb n="1" facs="tcp:114503:2"/>
+            <!-- PDF PAGE 17 -->
+            <head>Sir <hi>Philip Stapleton</hi> DEAD Of the Sickneſſe at <hi>CALLICE;</hi> AND The Names of others of the Eleven <hi>IMPEACHED MEMBERS</hi> THAT VVent Over with Him. AND <hi>Their Truncks, Cheſts, and Boxes of Moneys and Jewels, found in the ſhip</hi> by Captain Batten.</head>
+            <opener>
+               <salute>Noble Colonell,</salute>
+            </opener>
+            <p>THE preſent accident ſuting with this opportunity, invites me to communi<g ref="char:EOLhyphen"/>cate our intelligence (by a few lines) to you, concerning Sir <hi>Phillip Stapleton,</hi> Sir <hi>William Waller,</hi> Sir <hi>Will. Lewis,</hi> and Sir <hi>John Clotworthy;</hi> with their retinue, who (ſince their leaving
+<pb n="2" facs="tcp:114503:3"/>
+               <!-- PDF PAGE 18 -->
+               <hi>London</hi>) have been much croſt in their De<g ref="char:EOLhyphen"/>ſignes.</p>
+            <p>I am informed that their deſigne was to paſſe into <hi>France</hi> and to St. <hi>Jermins</hi> to the <hi>Queenes</hi> Court, and Prince <hi>Charles,</hi> carried on upon their old Principles, to advance the old deſigne, by a new way, thus.</p>
+            <p>Theſe <hi>Oracles</hi> (in their eloquency) to la<g ref="char:EOLhyphen"/>bour by ſet ſpeeches (upon advice amongſt themſelves) to addreſſe themſelves firſt to the <hi>Queene</hi> of Great <hi>Brittaine,</hi> to worke a good opinion in Her Majeſty of them, and their intentions, and on what they have done, and (in like manner) to viſit the Prince his Highneſſe.</p>
+            <p>Then if poſſibly they could prevaile, to make the <hi>Queene,</hi> and the <hi>Prince,</hi> Inſtru<g ref="char:EOLhyphen"/>ments to the State of <hi>France</hi> to carry on their intended deſigne; And by Her Maieſty to be entertained as Agents in Her behalfe to carry on this worke by a Treaty with the State of <hi>France,</hi> And by ſolicitations with the <hi>King,</hi> and the <hi>Queene</hi> Regent, His <hi>Ma<g ref="char:EOLhyphen"/>ieſties</hi> Mother.</p>
+            <p>Theſe Gentlmen, had hired a Ship, and were paſsing over, but about three <hi>Leagues</hi>
+               <pb n="3" facs="tcp:114503:3"/>
+               <!-- PDF PAGE 18 -->
+from <hi>Callis,</hi> they were taken by Captaine <hi>Peirſon,</hi> and Captaine <hi>Lamming,</hi> and were carryed before Captaine <hi>Batten, Viz-Admi<g ref="char:EOLhyphen"/>rall</hi> of the <hi>Engliſh</hi> Navy at Sea</p>
+            <p>Captaine <hi>Batten,</hi> being acquainted with the taking of theſe Gentlemen, and they be<g ref="char:EOLhyphen"/>ing brought to them, he went aſide with them, and afterwards examined by what Au<g ref="char:EOLhyphen"/>thority they ſtayed them, They anſwered that they were impeached by the Army of high miſdemeanors, ſince which they would have raiſed a new Warre againſt them, and were now running away, becauſe they, and their power are ſubdued: And that they were ſtayed that Juſtice might be done upon them.</p>
+            <p>Captain <hi>Batten</hi> ſaid they had the <hi>Speakers</hi> paſſe, and they could not ſtay them, becauſe of that: They replyed that Mr. <hi>Nichols</hi> one of the eleven was ſtayed by the Army, and that the Army doe require that they be all ſtayed, and ſecured, where ever they are found</p>
+            <p>But Captain <hi>Batten</hi> told them that they had done that which they could not anſwer and that they ſhould be queſtioned for it,
+<pb n="4" facs="tcp:114503:4"/>
+               <!-- PDF PAGE 19 -->
+and charged them to be gone, giving them a diſmiſſion,</p>
+            <p>Some ſearch was made by command from Captain <hi>Batten</hi> what was in their <hi>Cheſts Truncks,</hi> and <hi>Boxes,</hi> where were found <hi>monies Clothes, Jewels, Papers, Books,</hi> and other ne<g ref="char:EOLhyphen"/>ceſſaries, but nothing medled with. Cap<g ref="char:EOLhyphen"/>taine <hi>Batten</hi> had them aboard his ſhip, and to Dinner with him, Mr. <hi>Keme</hi> (Chaplaine to the <hi>Viz-admirall</hi> ſaid Grace.)</p>
+            <p>But Sir <hi>Phillip Stapleton</hi> was ſicke, which did againe much trouble them, yet they all deſired, Sir <hi>Phillip Stapleton</hi> although ſo ill, to paſſe over to <hi>Callis</hi> with all ſpeed.</p>
+            <p>And accordingly a Veſſell was diſmiſſed with them, and a paſſe form Captaine <hi>Bat<g ref="char:EOLhyphen"/>ten</hi> the <hi>Viz-Admirall,</hi> in which they were tranſported over.</p>
+            <p>Sir <hi>Phillip Stapleton,</hi> Sir <hi>William Waller,</hi> Sir <hi>William Lewis,</hi> Sir <hi>John Clotworthy,</hi> and ſome ten Gentlemen, whereof ſome are of the City of <hi>London,</hi> were landed ſafe at <hi>Callice</hi> in <hi>France:</hi> But Sir <hi>Phillip Stapleton</hi> continued very ſick and vomited often, and grew worſe and worſe, inſomuch that they were much caſt downe about him, for afterwards he
+<pb n="5" facs="tcp:114503:4"/>
+               <!-- PDF PAGE 19 -->
+was come into <hi>Callice</hi> he was much worſe then he was before.</p>
+            <p>And the ſickneſſe being ſomething hot in <hi>Callice</hi> they feared much leaſt it might not turne to the <hi>Plague, Doctors</hi> wete ſent for, and all poſſible meanes that could be had to helpe him.</p>
+            <p>But Sir <hi>Phillip Stapleton</hi> is ſince dead there, and it is given out to be of the ſickeneſſe, ſo that the reſt of his Company are much de<g ref="char:EOLhyphen"/>jected about it.</p>
+            <p>And hereby their Deſignes are totally thwarted, ſo that, by reaſon of his dying of the ſickneſſe, they cannot be admitted nei<g ref="char:EOLhyphen"/>ther to come to the Court of <hi>France,</hi> nor to the <hi>Queene</hi> of <hi>England,</hi> or Prince <hi>Charles</hi>
+            </p>
+            <p>Surely the Hand of God is mighty in theſe things, had we but eyes to ſee it, and hearts to beleive the power of God in it.</p>
+            <p>And Sir <hi>William Waller,</hi> Sir <hi>William Lewis</hi> Sir <hi>John Clotworthy</hi> and the reſt (ſeeing their intentions thus prevented) are gone to <hi>Fluſh<g ref="char:EOLhyphen"/>en,</hi> where it is beleived that they will put in for ſome Command if they can have im<g ref="char:EOLhyphen"/>ployment ſutable to their deſires, as now
+<pb n="6" facs="tcp:114503:5"/>
+               <!-- PDF PAGE 20 -->
+being utterly out of hopes to carry on their former Deſignes any further.</p>
+            <p>
+               <hi>I am glad to heare of the good accord betweene the Parliament, the Army, and the City, God grant a ſettled and ſure Peace.</hi>
+            </p>
+            <p>So prayes.</p>
+            <closer>
+               <dateline>Dover
+<date>this 23. of <hi>Auguſt.</hi> 1647.</date>
+               </dateline>
+               <signed>Your humble Servant, <hi>WILL. LAWCEY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
